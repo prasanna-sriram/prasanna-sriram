@@ -22,6 +22,9 @@
 
 | Project | Description | Skills Demonstrated |
 |--------|-------------|---------------------|
+| [COVID 19 Global Data Analysis](https://github.com/prasanna-sriram/covid19-global-data-analysis) | Analyzed global COVID-19 data using SQL to uncover trends in infection, death rates, and vaccination progress. Delivered time series and geographic insights. | SQL, Data Cleaning, Aggregations, Joins, Time Series Analysis, Public Health Analytics |
+| [Nashville Housing Data Cleaning](https://github.com/prasanna-sriram/nashville-housing-data) | Cleaned and transformed real estate data using SQL by handling nulls, parsing addresses, standardizing values, and removing duplicates. | SQL, Data Cleaning, String Parsing, Window Functions, Data Transformation, ETL Logic |
+| [Tech Jobs Survey & Skills Trend Analysis](https://github.com/prasanna-sriram/tech-jobs-survey-analysis) | Used APIs, web scraping, and survey data to identify top tech skills, job locations, and salary trends. Visualized results with Python and Power BI. | Python, Pandas, API Access, Web Scraping, Data Visualization, Power BI, Career Analytics |
 | [Customer Churn Prediction](#) | ML model to predict churn for telecom users. | Python, scikit-learn, SQL, Power BI, EDA |
 | [Automated Sales Reporting System](#) | Automated ETL pipeline to generate sales reports. | Python, SQL, ETL, Power BI |
 | [Marketing Campaign Dashboard](#) | Tableau dashboard to track campaign ROI. | Tableau, SQL, KPI Reporting |
@@ -41,6 +44,6 @@
 ## 📫 Let’s Connect!
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/prasanna-sriram/)  
-- 📊 [Tableau Public](https://public.tableau.com/app/profile/prasanna.sriram1422)
+- 📊 [Tableau Public](https://public.tableau.com/app/profile/prasanna.sriram.ps)
 
 ---
