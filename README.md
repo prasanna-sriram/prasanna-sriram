@@ -28,11 +28,6 @@
 | [Coffee Sales Dashboard](https://github.com/prasanna-sriram/coffee-sales-analysis) | Built a Power BI dashboard to analyze coffee shop sales, orders, and quantities sold. Enabled dynamic tracking of product performance and revenue trends. | Power BI, DAX, Power Query, Sales Analysis, KPI Design, Dashboard Development |
 | [HR Data Analytics Dashboard](https://github.com/prasanna-sriram/hr-data-analysis) | Built a Power BI dashboard to analyze HR metrics like promotions, retention risk, job satisfaction, and gender balance for faster HR decision-making. | Power BI, DAX, Data Modeling, Power Query, KPI Design, Executive Reporting |
 | [Nashville Housing Data Cleaning](https://github.com/prasanna-sriram/nashville-housing-data) | Cleaned and transformed real estate data using SQL by handling nulls, parsing addresses, standardizing values, and removing duplicates. | SQL, Data Cleaning, String Parsing, Window Functions, Data Transformation, ETL Logic |
-| [Customer Churn Prediction](#) | ML model to predict churn for telecom users. | Python, scikit-learn, SQL, Power BI, EDA |
-| [Automated Sales Reporting System](#) | Automated ETL pipeline to generate sales reports. | Python, SQL, ETL, Power BI |
-| [Marketing Campaign Dashboard](#) | Tableau dashboard to track campaign ROI. | Tableau, SQL, KPI Reporting |
-| [Retail Sales Forecasting](#) | Time series forecasting using Prophet. | Python, Forecasting, Visualization |
-| [Cloud-Ready Data Pipeline](#) | Modular ETL pipeline with logging and automation. | Python, PostgreSQL, Data Engineering |
 
 ---
 
