@@ -2,9 +2,9 @@
 
 **Data Analyst | Business Analyst | Data Engineer | Data Scientist**
 
-📊 Results-driven data professional with 5+ years of experience transforming complex datasets into actionable insights. I specialize in SQL, Python, Power BI, and Tableau, and have a strong track record of delivering data-driven solutions that improve efficiency, accuracy, and decision-making.
+I’m a data professional with 5+ years of experience turning messy datasets into insights that drive decisions. My sweet spot is combining technical depth with business context — whether that’s building SQL pipelines, automating workflows in Python, or designing BI dashboards in Power BI and Tableau that actually get used.
 
-🔍 I focus on building scalable data pipelines, designing interactive dashboards, and applying statistical and machine learning models to solve real-world problems. I’m passionate about continuous learning and using data to drive strategic outcomes.
+Over the years, I’ve helped leadership hire faster, retain talent, recover revenue leaks, forecast more accurately, and understand customers better. I enjoy working across the full data lifecycle — from cleaning and modelling to visualization and storytelling — and I thrive on making data accessible to both technical and non-technical audiences.
 
 ---
 
