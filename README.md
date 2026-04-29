@@ -20,14 +20,14 @@ I work best at the intersection of risk, technology, and operations—partnering
 
 ## 🔧 Tech Stack
 
-**Governance, Risk & Compliance Frameworks**: ITGC, SOX IT Controls, SOC 2 (Type I/II), PCI DSS, ISO 27001 Annex A, GDPR, NIST CSF, COBIT, Segregation of Duties, Audit Readiness, Compliance Reporting
-**Risk & Vendor Management**: Third-Party Risk Management (TPRM), Control Libraries, Risk Tiering Models, Vendor Inventory & Due Diligence, Inherent Risk Scoring, ISO/SOC Mapping, Evidence Collection
-**Data, Analytics & Automation**: SQL, Python, Pandas, NumPy, Power BI, Tableau, Excel, ETL Pipelines, KPI-Driven Dashboards, Reconciliation & Exception Monitoring Workflows, Power Query, JSON, Matplotlib, Plotly
-**Tools & Platforms**: SharePoint Lists, Power Automate, Microsoft Forms, Business Process Management Softwares, Microsoft TFS, Microsoft 365, Office 365
-**Security & Cloud Direction**: IAM, Privileged Access, Cloud Security, AI Governance, Risk Analytics, Continuous Monitoring
-**Databases**: MS SQL Server, PostgreSQL, MongoDB, Firebase
-**Operating Systems**: Windows, Linux
-**Other Tools**: Git, GitHub, Heroku, Microsoft 
+- **Governance, Risk & Compliance Frameworks**: ITGC, SOX IT Controls, SOC 2 (Type I/II), PCI DSS, ISO 27001 Annex A, GDPR, NIST CSF, COBIT, Segregation of Duties, Audit Readiness, Compliance Reporting
+- **Risk & Vendor Management**: Third-Party Risk Management (TPRM), Control Libraries, Risk Tiering Models, Vendor Inventory & Due Diligence, Inherent Risk Scoring, ISO/SOC Mapping, Evidence Collection
+- **Data, Analytics & Automation**: SQL, Python, Pandas, NumPy, Power BI, Tableau, Excel, ETL Pipelines, KPI-Driven Dashboards, Reconciliation & Exception Monitoring Workflows, Power Query, JSON, Matplotlib, Plotly
+- **Tools & Platforms**: SharePoint Lists, Power Automate, Microsoft Forms, Business Process Management Softwares, Microsoft TFS, Microsoft 365, Office 365
+- **Security & Cloud Direction**: IAM, Privileged Access, Cloud Security, AI Governance, Risk Analytics, Continuous Monitoring
+- **Databases**: MS SQL Server, PostgreSQL, MongoDB, Firebase
+- **Operating Systems**: Windows, Linux
+- **Other Tools**: Git, GitHub, Heroku, Microsoft 
 
 ---
 
