@@ -1,29 +1,30 @@
 # 👋 Hi, I'm Prasanna Sriram
 
-**GRC Analyst | IT Risk, TPRM & Compliance Automation**
+**IT Risk & Compliance | Enterprise, Product & Vendor Risk | Security & GRC | TPM-Style Delivery**
 
 ### About Me
-I help organizations strengthen **governance, manage third-party risk, and improve audit readiness** through practical **compliance automation, data analysis, and control design**. My work spans **SOX, SOC 2, PCI DSS, ISO 27001, and NIST CSF** across banking, fintech, SaaS, and nonprofit environments.
+I help organizations turn complex regulations and risk frameworks into working controls, automated workflows, and measurable outcomes. I've recovered missed revenue, eliminated critical access gaps, and built defensible vendor risk programs that stand up to audit scrutiny — all by combining technical depth with a practical, stakeholder-first approach.
 
-My experience spans banking, fintech, SaaS, and nonprofit environments, with hands-on work across SOX, SOC 2, PCI DSS, ISO 27001, and NIST CSF. I enjoy turning complex compliance requirements into structured workflows, dashboards, and evidence-ready processes that support both business goals and regulatory expectations.
+For over 8 years, I've worked as an IT Risk & Compliance Analyst and consultant across telecom billing, accounting/payroll platforms, SaaS startups, fintech-adjacent software, and nonprofits. I've designed SOX ITGC controls, ISO 27001/SOC 2-mapped control libraries, PCI DSS-compliant data handling, and NIST CSF-aligned cybersecurity assessments. I build and automate these solutions using SQL, Python, and Power BI — from three-way revenue reconciliations and dormant privileged account monitoring to vendor risk scoring engines and compliance dashboards hosted on Microsoft 365.
 
-I work best at the intersection of risk, technology, and operations—partnering with cross-functional teams, simplifying technical concepts for diverse stakeholders, and building solutions that are both secure and practical. I am currently focused on growing in cloud security, AI risk governance, and compliance automation, while contributing to projects that make GRC more measurable and scalable.
+I'm known for translating technical risk concepts into clear, actionable insights for non-technical stakeholders — whether that's a founder, an engineer, a finance lead, or an external auditor. I thrive in cross-functional environments where risk, compliance, and delivery all need to move forward together without friction. Outside of work, I enjoy long walks, reading behavioral economics, and thinking through how people, processes, and technology intersect. I'm currently deepening my expertise in cloud security architectures and AI governance/risk frameworks.
 
 #### Highlights
-- 8+ years of experience in IT compliance, risk analysis, and third-party risk management.
-- Built solutions that improved audit readiness, strengthened access controls, and automated compliance reporting.
-- Experienced in translating frameworks into operational controls, workflows, dashboards, and evidence collection processes.
-- Comfortable collaborating with audit, engineering, finance, security, and business stakeholders.
-- Interested in cloud-focused GRC, AI risk governance, and scalable compliance automation.
+- Designed and implemented a risk-based TPRM program for 50+ vendors, mapping ISO 27001 Annex A and SOC 2 controls, implementing risk tiering, and centralizing evidence in Microsoft 365.
+- Built an automated 3-way reconciliation (UMS, Billing, GL) using SQL and Python that recovered 30% of previously missed premium-service telecom revenue while generating continuous SOX audit evidence.
+- Redesigned privileged user access for a network monitoring product, achieving 100% MFA adoption for privileged accounts within 3 months and reducing non-compliance risk by 40%.
+- Led a NIST CSF-aligned cybersecurity maturity assessment, scoring controls by function, quantifying gaps against target profiles, and delivering a prioritized remediation roadmap across IAM, logging, vulnerability management, and incident response.
+- Implemented PCI DSS-compliant encryption and payment-data monitoring across legacy billing systems, eliminating unencrypted cardholder data and strengthening billing-workflow compliance.
+- Helped a nonprofit replace shared credentials with role-based access, implement logging and approval workflows, and significantly reduce audit and privacy risk around donor data.
 
 ---
 
 ## 🔧 Tech Stack
 
-- **Governance, Risk & Compliance Frameworks**: ITGC, SOX IT Controls, SOC 2 (Type I/II), PCI DSS, ISO 27001 Annex A, GDPR, NIST CSF, COBIT, Segregation of Duties, Audit Readiness, Compliance Reporting
-- **Risk & Vendor Management**: Third-Party Risk Management (TPRM), Control Libraries, Risk Tiering Models, Vendor Inventory & Due Diligence, Inherent Risk Scoring, ISO/SOC Mapping, Evidence Collection
-- **Data, Analytics & Automation**: SQL, Python, Pandas, NumPy, Power BI, Tableau, Excel, ETL Pipelines, KPI-Driven Dashboards, Reconciliation & Exception Monitoring Workflows, Power Query, JSON, Matplotlib, Plotly
-- **Tools & Platforms**: SharePoint Lists, Power Automate, Microsoft Forms, Business Process Management Softwares, Microsoft TFS, Microsoft 365, Office 365
+- **Risk, Compliance & Governance**: SOX ITGC, SOC 2(Type I & II), ISO 27001 Annex A, PCI DSS, NIST Cybersecurity Framework, IT Risk Management, Third-Party Risk Management(TPRM), Vendor Risk Management, Control Design, RCSA, Risk Assessments, Issue & Incident Management, Enterprise Risk Management(ERM)
+- **Identity & Access Controls**: Identity & Access Management(IAM), Least-Privilege Access Design, User Access Reviews, Segregation of Duties(SoD), Privileged Access Monitoring, MFA Rollout & Coverage Tracking, Role-Based Access Control(RBAC)
+- **Data, Analytics & Automation**: SQL(Advanced), Python(Advanced — Pandas, automation scripts), Power BI(Advanced — DAX, dashboards, alerts), Automated Reconciliation, Exception Monitoring, Risk Dashboards & KPIs, Automated Evidence Collection
+- **Tools & Platforms**: Microsoft 365(SharePoint, Power Automate, Excel risk engines), Microsoft Forms, Ganges BPM, TFS / Azure DevOps, ETL Pipelines, Network Configuration Monitoring Tools, Log & Change Tracking Systems
 - **Security & Cloud Direction**: IAM, Privileged Access, Cloud Security, AI Governance, Risk Analytics, Continuous Monitoring
 - **Databases**: MS SQL Server, PostgreSQL, MongoDB, Firebase
 - **Operating Systems**: Windows, Linux
