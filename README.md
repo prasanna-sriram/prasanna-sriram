@@ -94,19 +94,19 @@ Open to collaborating on:
 - Cybersecurity maturity and cloud security compliance projects
 - AI risk and governance initiatives
 
- Reach out via [LinkedIn](https://www.linkedin.com/in/prasanna-sriram/) or open an issue on any of the repos above.
+Reach out via [LinkedIn](https://www.linkedin.com/in/prasanna-sriram/) or open an issue on any of the repos above.
 
 <details>
 <summary>📦 Additional Projects (click to expand)</summary>
 
 These earlier projects reflect foundational SQL, Python, and Power BI analytics work built while developing the risk-analytics skillset behind the featured projects above.
 
-- **[Global COVID-19 Data Analysis with SQL and Tableau](https://github.com/prasanna-sriram/covid19-global-data-analysis)** - Analyzed global COVID-19 data using SQL to uncover trends in infection, death rates, and vaccination progress, with time series and geographic insights. *Skills: SQL, Data Cleaning, Aggregations, Joins, Time Series Analysis.*
-- **[Tech Job Market Trends Analysis with Python, Web Scraping, and Power BI](https://github.com/prasanna-sriram/tech-jobs-survey-analysis)** - Used APIs, web scraping, and survey data to identify top tech skills, job locations, and salary trends, visualized in Python and Power BI. *Skills: Python, Pandas, API Access, Web Scraping, Data Visualization.*
-- **[Box Office Revenue Drivers Analysis with Python](https://github.com/prasanna-sriram/movie-revenue-analysis)** - Analyzed movie data to find correlations between budget, votes, and revenue, with data cleaning and feature engineering. *Skills: Python, Pandas, EDA, Feature Engineering, Correlation Analysis.*
-- **[Coffee Sales Analysis for Retail Performance Optimization](https://github.com/prasanna-sriram/coffee-sales-analysis)** - Built a Power BI dashboard analyzing coffee shop sales, orders, and quantities sold for dynamic revenue tracking. *Skills: Power BI, DAX, Power Query, KPI Design.*
-- **[HR Data Analytics Dashboard for Workforce Insights](https://github.com/prasanna-sriram/hr-data-analysis)** - Built a Power BI dashboard analyzing promotions, retention risk, job satisfaction, and gender balance. *Skills: Power BI, DAX, Data Modeling, Executive Reporting.*
-- **[Real Estate Data Cleaning & Transformation using SQL for Nashville Housing](https://github.com/prasanna-sriram/nashville-housing-data)** - Cleaned and transformed real estate data using SQL, handling nulls, address parsing, and deduplication. *Skills: SQL, Data Cleaning, Window Functions, ETL Logic.*
+- **[Global COVID-19 Data Analysis with SQL and Tableau](https://github.com/prasanna-sriram/covid19-global-data-analysis):** Analyzed global COVID-19 data using SQL to uncover trends in infection, death rates, and vaccination progress, with time series and geographic insights. *Skills: SQL, Data Cleaning, Aggregations, Joins, Time Series Analysis.*
+- **[Tech Job Market Trends Analysis with Python, Web Scraping, and Power BI](https://github.com/prasanna-sriram/tech-jobs-survey-analysis):** Used APIs, web scraping, and survey data to identify top tech skills, job locations, and salary trends, visualized in Python and Power BI. *Skills: Python, Pandas, API Access, Web Scraping, Data Visualization.*
+- **[Box Office Revenue Drivers Analysis with Python](https://github.com/prasanna-sriram/movie-revenue-analysis):** Analyzed movie data to find correlations between budget, votes, and revenue, with data cleaning and feature engineering. *Skills: Python, Pandas, EDA, Feature Engineering, Correlation Analysis.*
+- **[Coffee Sales Analysis for Retail Performance Optimization](https://github.com/prasanna-sriram/coffee-sales-analysis):** Built a Power BI dashboard analyzing coffee shop sales, orders, and quantities sold for dynamic revenue tracking. *Skills: Power BI, DAX, Power Query, KPI Design.*
+- **[HR Data Analytics Dashboard for Workforce Insights](https://github.com/prasanna-sriram/hr-data-analysis):** Built a Power BI dashboard analyzing promotions, retention risk, job satisfaction, and gender balance. *Skills: Power BI, DAX, Data Modeling, Executive Reporting.*
+- **[Real Estate Data Cleaning & Transformation using SQL for Nashville Housing](https://github.com/prasanna-sriram/nashville-housing-data):** Cleaned and transformed real estate data using SQL, handling nulls, address parsing, and deduplication. *Skills: SQL, Data Cleaning, Window Functions, ETL Logic.*
 
 </details>
 
