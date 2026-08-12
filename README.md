@@ -4,11 +4,11 @@
 
 ## About Me
 
-I lead enterprise risk and GRC programs the way a technical program manager runs a delivery roadmap: with scope, milestones, cross-functional accountability, and executive reporting cadence, not just spreadsheets and policy documents. For 8+ years, I've owned IT risk, third-party risk, and cybersecurity governance programs end-to-end across telecom billing, banking/fintech, accounting/payroll platforms, SaaS startups, and nonprofits, reporting through governance chains that reach CISO, CFO, Risk Committee, and Board/Audit Committee levels.
+I lead enterprise risk and GRC programs the way a technical program manager runs a delivery roadmap: with scope, milestones, cross-functional accountability, and executive reporting cadence — not just spreadsheets and policy documents. For 8+ years, I've owned IT risk, third-party risk, and cybersecurity governance programs end-to-end across telecom billing, banking/fintech, accounting/payroll platforms, SaaS startups, and nonprofits, reporting through governance chains that reach CISO, CFO, Risk Committee, and Board/Audit Committee levels.
 
-I've run IPO-readiness IAM/SOX remediation programs coordinating teams of up to 12 engineers and auditors, built and defended third-party risk assessments across vendor portfolios of 50–75+, and led independent cybersecurity maturity engagements that reframed security gaps as revenue and growth risk for founders and boards. I design and automate the analytics behind these programs myself (SQL, Python, and Power BI) from three-way revenue reconciliations and vendor risk scoring engines to NIST CSF maturity models and continuous controls monitoring dashboards.
+I've run IPO-readiness IAM/SOX remediation programs coordinating teams of up to 12 engineers and auditors, built and defended third-party risk assessments across vendor portfolios of 50–75+, and led independent cybersecurity maturity engagements that reframed security gaps as revenue and growth risk for founders and boards. I design and automate the analytics behind these programs myself — SQL, Python, and Power BI — from three-way revenue reconciliations and vendor risk scoring engines to NIST CSF maturity models and continuous controls monitoring dashboards.
 
-What sets me apart is the ability to move fluidly between building the technical control (a SQL check, a Python risk score, a Power BI dashboard) and defending it in front of an auditor, a CISO, or a Board Audit Committee. I treat risk and compliance as a growth enabler - connecting security posture to enterprise sales enablement, funding eligibility, and audit readiness, rather than a pure cost-of-doing-business function. I'm currently deepening my expertise in cloud security architectures and AI governance/risk frameworks, and building portfolio projects that simulate exactly those problem spaces.
+What sets me apart is the ability to move fluidly between building the technical control (a SQL check, a Python risk score, a Power BI dashboard) and defending it in front of an auditor, a CISO, or a Board Audit Committee. I treat risk and compliance as a growth enabler — connecting security posture to enterprise sales enablement, funding eligibility, and audit readiness — rather than a pure cost-of-doing-business function. I'm currently deepening my expertise in cloud security architectures and AI governance/risk frameworks, and building a connected arc of portfolio projects that simulate exactly those problem spaces.
 
 ---
 
@@ -40,6 +40,12 @@ What sets me apart is the ability to move fluidly between building the technical
 
 ## 📁 Featured Projects
 
+### [NorthStar Digital Bank — Security Compliance Operations Engine (ISO 27001, SOC 2 Type II, PIPEDA & TPRM)](https://github.com/prasanna-sriram/northstar-compliance-operations-engine)
+
+Simulates the operating model of a Senior Security Compliance Engineer running compliance as a repeatable operational system for a fictional cloud-native digital bank, rather than a manual documentation exercise. I built a full compliance data layer (controls, evidence, policies, risks, vendors, privacy requests) and seven Python scripts that automate evidence-freshness checks, policy review tracking, remediation aging, control-effectiveness summaries, risk scoring, vendor tiering, and DSAR SLA monitoring — each writing refreshed, auditor-ready CSV outputs on every run. The vendor-tiering engine independently scored and tiered all 35 vendors against a weighted composite model, flagging 14 as High tier and catching 4 cases of "tier drift" where a vendor's assigned label didn't match its underlying risk attributes, while the PIPEDA-aligned DSAR workflow flagged 4 of 30 privacy requests as past-due - a finding that cross-referenced directly to an existing risk register item. Everything rolls up into a five-page Power BI dashboard (executive overview, control operations, risk & remediation, third-party risk, and privacy operations), an audit evidence index mapping every control to its evidence artifact, and a customer-facing security review pack for external trust-building.
+
+**Skills demonstrated:** Python compliance automation, SQL exception reporting, Power BI/DAX dashboarding, ISO 27001/SOC 2/NIST CSF cross-framework mapping, vendor risk scoring, PIPEDA-aligned privacy operations, audit-evidence documentation.
+
 ### [AuroraPay - Product Risk Analytics for Real-Time Payments](https://github.com/prasanna-sriram/aurorapay-product-risk-case-study)
 
 A second-line ERM case study for a fictional national real-time payments rail (inspired by Interac), built to show how a Product Risk Lead challenges a payments product rather than just reports on it. I designed a product-aligned risk taxonomy and 12-item risk register across five themes: outages, fraud, technology/access, third-party, and regulatory exposure, then generated and analyzed ~100K synthetic transactions in Python/pandas to compute KRIs on fraud rates, incident severity, and open High/Critical issues. The Power BI dashboards and executive risk paper surfaced that a smaller payment rail carried disproportionately higher fraud risk, and that privileged-access gaps and vendor-resilience shortfalls were the structural amplifiers behind it, resulting in prioritized, time-bound remediation recommendations written from a genuine second-line challenge perspective.
@@ -62,15 +68,7 @@ A second-line ERM framework simulating how a Canadian payments network monitors 
 
 ## 🧠 What I’m Working On
 
-I'm currently building two portfolio projects that push into the areas I'm actively growing: continuous compliance operations engineering and AI governance for regulated environments. Both are genuinely in progress and here's where they actually stand today.
-
-### [Security Compliance Operations Engine - ISO 27001, SOC 2 Type II, PIPEDA & TPRM (In Progress)](https://github.com/prasanna-sriram/northstar-compliance-operations-engine)
-
-Simulating the operating model of a Senior Security Compliance Engineer at a fictional cloud-native digital bank, this project is being built incrementally with working scripts and validated outputs rather than static placeholders. 
-
-**Built so far:** a full compliance data layer (controls, evidence, policies, risks, vendors, privacy requests); five Python automation scripts covering evidence-freshness checks, policy review tracking, remediation aging, control-effectiveness summaries, and DSAR SLA monitoring; a risk-scoring engine that ranks and flags high-severity overdue risks for a management-review report; a vendor-tiering engine that scored and tiered all 35 vendors, flagged 14 as High tier and caught 4 cases of tier drift a static spreadsheet would have missed; and a PIPEDA-aligned DSAR/privacy operations module with a six-stage intake-to-closure workflow. 
-
-**Still to come:** the Power BI dashboard (executive, control-ops, risk, vendor, and privacy views) and the final audit-evidence index and customer-facing security review pack.
+I'm currently running a connected, four-project arc focused entirely on AI risk and governance, each project builds on the last, moving from AI governance operations, to model risk, to AI security, to a capstone consulting engagement. Project 1 is in progress now; Projects 2–4 are planned and will be linked here as each repo is built.
 
 ### [AI Governance and Controls Program - Enterprise AI Gateway (MeridianBank) (In Progress)](https://github.com/prasanna-sriram/ai-governance-controls-gateway)
 Simulating the work of an AI Governance & Controls Lead standing up governance for a fictional bank's internal GenAI gateway, mapped to the NIST AI RMF and ISO/IEC 42001. The objective is to show governance enforced mechanically at a platform layer (Azure API Management, Entra ID, Key Vault, Azure Monitor) rather than through annual policy attestation. 
@@ -78,6 +76,12 @@ Simulating the work of an AI Governance & Controls Lead standing up governance f
 **Built so far:** the first three AI standards (model approval, human oversight, logging/retention) fully drafted. 
 
 **Still to come:** finishing the agentic-guardrails and acceptable-use standards, building the full Obligation → Control → Evidence mapping table, provisioning the Azure enforcement layer and RBAC roles, designing the AI use case/agent registry and its Python validation script, building the policy-exception/TRM deviation tracker, assembling the examiner-readiness evidence package, and building the final Power BI governance dashboard.
+
+### Coming Up Next
+
+- **Project 2 — GenAI Model Risk & Governance** - targeting Senior Analyst, AI Models Risk and Governance and AI Governance Specialist roles. Simulates an Enterprise Model Risk Management (EMRM) certification workflow for GenAI contact-center agents ("AdviceCentre AI"): a Python-built model/agent risk registry with tiering methodology, model cards, Data Impact Assessments, TEVV evidence tracking, and drift-detection monitoring, all feeding a real-time Power BI performance dashboard and a Notion-based Center of Enablement knowledge base.
+- **Project 3 — AI Security Review & Secure-by-Design Program** - targeting Senior AI Security Engineer roles. Threat-models a GenAI/agentic application ("SentraSec AI Intake") by mapping the OWASP LLM Top 10 to MITRE ATLAS adversary techniques, runs sandboxed prompt-injection and jailbreak testing with Promptfoo against a controlled endpoint, and reviews the supporting APIs using Azure API Management policy-as-code controls — closing with secure-by-design guidance and a multi-audience executive risk-summary report.
+- **Project 4 — AI Risk Management Consulting Engagement** - targeting AI Risk Management Consultant roles, and designed as a capstone that synthesizes all three prior projects. Simulates a full consulting engagement for an insurance client ("Meridian Mutual Insurance"): an AI governance maturity assessment, a NIST AI RMF ↔ ISO/IEC 42001 ↔ EU AI Act crosswalk, risk tiering across claims and underwriting AI systems, monitoring/control architecture design, and a full governance operating model with committee structure, RACI, and change-management materials — delivered as a client-ready pack with an executive presentation.
 
 ---
 
