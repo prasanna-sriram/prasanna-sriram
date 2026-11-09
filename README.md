@@ -75,11 +75,11 @@ Each series follows a fictional organization through practical decisions: **what
 
 **Current stage:** Preparing the first technology and third-party risk chapter and its accompanying post. The four repositories have starter materials; no case-study chapters have been published yet.
 
-### [The Integration Deadline — Technology and Third-Party Risk](TECHNOLOGY_TPRM_REPOSITORY_URL)
+### [The Integration Deadline — Technology and Third-Party Risk](https://github.com/prasanna-sriram/technology-third-party-case-study)
 
 Follows **Alderbank**, a fictional bank assessing an analytics integration under delivery pressure. Explores service ownership, vendor access, data flows, due diligence, onboarding conditions, and monitoring reliability. The learning connects **OSFI B-10 and B-13** with familiar NIST CSF, ISO 27001, SOC reporting, SOX/ICFR, and PCI DSS concepts where relevant.
 
-### [The Day the Workaround Failed — Operational Resilience](OPERATIONAL_RESILIENCE_REPOSITORY_URL)
+### [The Day the Workaround Failed — Operational Resilience](https://github.com/prasanna-sriram/operational-resilience-case-study)
 
 Follows **Cedarline Assurance**, a fictional insurer testing whether its fallback arrangements can sustain important operations. Explores critical operations, dependencies, disruption tolerances, recovery assumptions, and scenario testing. The focus is the **evidence behind recovery claims**, including whether manual workarounds preserve capacity, accountability, and control.
 
